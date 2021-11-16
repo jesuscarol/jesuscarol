@@ -8,15 +8,15 @@
   </p>
   
   <p align="left">
-  🎓Atualmente estou estudando <strong>HTML, CSS, JavaScript.</strong>
+  🎓 Atualmente estou estudando <strong>HTML, CSS, JavaScript.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Git e GitHub.</strong>
+  🛠️ Ferramentas: <strong>VSCode, Git e GitHub.</strong>
 </p>
 
-<p
- ☕ Se você tem uma pergunta, ou queira bater um papo fique a vontade
+<p align="left">
+  ☕ Se você quiser bater um papo, fique a vontade.
 </p>
 
 ##
